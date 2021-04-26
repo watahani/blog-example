@@ -1,3 +1,5 @@
+deploy-preview:
+steps:
 - name: Deploy preview site
   uses: cssjpn/blog-gh-actions/deploy-preview@v1
   with:
