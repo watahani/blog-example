@@ -5,4 +5,4 @@ tags:
   - Information
 ---
 
-hello, world!
+hello, world! Hello GitHub Actions!
